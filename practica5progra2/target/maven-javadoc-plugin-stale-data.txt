@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Alejandro/OneDrive/Escritorio/practica5progra2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Alejandro/OneDrive/Escritorio/practica5progra2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'algoritmos-grafos 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Alejandro/OneDrive/Escritorio/practica5progra2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'algoritmos-grafos 1.0-SNAPSHOT API'
+pr2
+util
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\src\main\java = 1714459930627
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\allclasses-index.html = 1716143244312
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\allpackages-index.html = 1716143244314
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\copy.svg = 1716143244352
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\element-list = 1716143244250
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\help-doc.html = 1716143244346
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\index-all.html = 1716143244332
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\index.html = 1716143244300
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\link.svg = 1716143244355
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\member-search-index.js = 1716143244319
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\module-search-index.js = 1716143244315
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\overview-summary.html = 1716143244337
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\overview-tree.html = 1716143244297
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\package-search-index.js = 1716143244317
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\script.js = 1716143244351
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\search-page.js = 1716143244360
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\search.html = 1716143244335
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\search.js = 1716143244358
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\stylesheet.css = 1716143244349
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\tag-search-index.js = 1716143244320
+C:\Users\Alejandro\OneDrive\Escritorio\practica5progra2\target\site\apidocs\type-search-index.js = 1716143244318
