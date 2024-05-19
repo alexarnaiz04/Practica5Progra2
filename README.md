@@ -45,3 +45,8 @@ Camino Más Corto: Utiliza BFS para encontrar el camino más corto entre dos vé
 
 ## Autor
 Este proyecto fue desarrollado por Alejandro Arnaiz Garrido
+
+## Comandos maven
+Para compilar: mvn compile
+Para el paquete: mvn package 
+Para ejecutar el test y verificar que el codigo funcona correctamente: mvn test
